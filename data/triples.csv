@@ -1,0 +1,405 @@
+allergy,has_symptom,chest_pain
+allergy,has_symptom,fatigue
+allergy,has_symptom,headache
+allergy,has_symptom,itching
+allergy,has_symptom,nasal_congestion
+allergy,has_symptom,runny_nose
+allergy,has_symptom,sneezing
+allergy,has_symptom,sore_throat
+allergy,has_symptom,swelling
+allergy,has_symptom,throat_swelling
+allergy,has_symptom,watery_eyes
+allergy,has_symptom,eye_redness
+allergy,has_symptom,wheezing
+anemia,has_symptom,breathing_difficulty
+anemia,has_symptom,chest_pain
+anemia,has_symptom,cold_extremities
+anemia,has_symptom,dizziness
+anemia,has_symptom,fatigue
+anemia,has_symptom,headache
+anemia,has_symptom,pallor
+anemia,has_symptom,rapid_heartbeat
+anemia,has_symptom,weakness
+angina,has_symptom,breathing_difficulty
+angina,has_symptom,chest_pain
+angina,has_symptom,chest_tightness
+angina,has_symptom,fatigue
+angina,has_symptom,jaw_pain
+angina,has_symptom,left_arm_pain
+anxiety disorder,has_symptom,anxiety_feeling
+anxiety disorder,has_symptom,breathing_difficulty
+anxiety disorder,has_symptom,dizziness
+anxiety disorder,has_symptom,headache
+anxiety disorder,has_symptom,insomnia
+anxiety disorder,has_symptom,muscle_stiffness
+anxiety disorder,has_symptom,rapid_heartbeat
+anxiety disorder,has_symptom,sweating
+anxiety disorder,has_symptom,tremor
+appendicitis,has_symptom,abdominal_pain
+appendicitis,has_symptom,appetite_loss
+appendicitis,has_symptom,fever
+appendicitis,has_symptom,nausea
+appendicitis,has_symptom,vomiting
+arthritis,has_symptom,fatigue
+arthritis,has_symptom,joint_pain
+arthritis,has_symptom,joint_stiffness
+arthritis,has_symptom,muscle_aches
+arthritis,has_symptom,pain
+arthritis,has_symptom,swelling
+arthritis,has_symptom,weakness
+bronchial asthma,has_symptom,breathing_difficulty
+bronchial asthma,has_symptom,chest_tightness
+bronchial asthma,has_symptom,cough
+bronchial asthma,has_symptom,fatigue
+bronchial asthma,has_symptom,mucus_production
+bronchial asthma,has_symptom,wheezing
+cervical spondylosis,has_symptom,back_pain
+cervical spondylosis,has_symptom,dizziness
+cervical spondylosis,has_symptom,neck_pain
+cervical spondylosis,has_symptom,numbness
+cervical spondylosis,has_symptom,pain
+cervical spondylosis,has_symptom,weakness
+chicken pox,has_symptom,blisters
+chicken pox,has_symptom,fatigue
+chicken pox,has_symptom,fever
+chicken pox,has_symptom,headache
+chicken pox,has_symptom,itching
+chicken pox,has_symptom,rash
+chronic kidney disease,has_symptom,breathing_difficulty
+chronic kidney disease,has_symptom,dark_urine
+chronic kidney disease,has_symptom,fatigue
+chronic kidney disease,has_symptom,frequent_urination
+chronic kidney disease,has_symptom,itching
+chronic kidney disease,has_symptom,nausea
+chronic kidney disease,has_symptom,pallor
+chronic kidney disease,has_symptom,swelling
+chronic kidney disease,has_symptom,weakness
+common cold,has_symptom,cough
+common cold,has_symptom,fatigue
+common cold,has_symptom,fever
+common cold,has_symptom,headache
+common cold,has_symptom,mucus_production
+common cold,has_symptom,nasal_congestion
+common cold,has_symptom,runny_nose
+common cold,has_symptom,sneezing
+common cold,has_symptom,sore_throat
+copd,has_symptom,breathing_difficulty
+copd,has_symptom,chest_tightness
+copd,has_symptom,cough
+copd,has_symptom,fatigue
+copd,has_symptom,mucus_production
+copd,has_symptom,wheezing
+covid-19,has_symptom,body_aches
+covid-19,has_symptom,breathing_difficulty
+covid-19,has_symptom,chills
+covid-19,has_symptom,cough
+covid-19,has_symptom,diarrhea
+covid-19,has_symptom,fatigue
+covid-19,has_symptom,fever
+covid-19,has_symptom,headache
+covid-19,has_symptom,loss_of_smell
+covid-19,has_symptom,loss_of_taste
+covid-19,has_symptom,sore_throat
+dehydration,has_symptom,dark_urine
+dehydration,has_symptom,dizziness
+dehydration,has_symptom,dry_skin
+dehydration,has_symptom,excessive_thirst
+dehydration,has_symptom,fatigue
+dehydration,has_symptom,headache
+dengue,has_symptom,body_aches
+dengue,has_symptom,chills
+dengue,has_symptom,fatigue
+dengue,has_symptom,fever
+dengue,has_symptom,headache
+dengue,has_symptom,itching
+dengue,has_symptom,joint_pain
+dengue,has_symptom,muscle_aches
+dengue,has_symptom,nausea
+dengue,has_symptom,rash
+dengue,has_symptom,retro_orbital_pain
+dengue,has_symptom,vomiting
+dengue,has_symptom,weakness
+depression,has_symptom,appetite_loss
+depression,has_symptom,fatigue
+depression,has_symptom,headache
+depression,has_symptom,insomnia
+depression,has_symptom,sadness
+depression,has_symptom,weakness
+depression,has_symptom,weight_loss
+diabetes,has_symptom,blurred_vision
+diabetes,has_symptom,excessive_hunger
+diabetes,has_symptom,excessive_thirst
+diabetes,has_symptom,fatigue
+diabetes,has_symptom,frequent_urination
+diabetes,has_symptom,nausea
+diabetes,has_symptom,slow_healing
+diabetes,has_symptom,weakness
+diabetes,has_symptom,weight_loss
+drug reaction,has_symptom,breathing_difficulty
+drug reaction,has_symptom,dizziness
+drug reaction,has_symptom,itching
+drug reaction,has_symptom,nausea
+drug reaction,has_symptom,rash
+drug reaction,has_symptom,swelling
+drug reaction,has_symptom,vomiting
+ear infection,has_symptom,dizziness
+ear infection,has_symptom,ear_discharge
+ear infection,has_symptom,ear_pain
+ear infection,has_symptom,fever
+ear infection,has_symptom,headache
+fibromyalgia,has_symptom,body_aches
+fibromyalgia,has_symptom,fatigue
+fibromyalgia,has_symptom,headache
+fibromyalgia,has_symptom,insomnia
+fibromyalgia,has_symptom,muscle_aches
+fibromyalgia,has_symptom,muscle_stiffness
+food poisoning,has_symptom,abdominal_pain
+food poisoning,has_symptom,chills
+food poisoning,has_symptom,diarrhea
+food poisoning,has_symptom,fever
+food poisoning,has_symptom,nausea
+food poisoning,has_symptom,vomiting
+fungal infection,has_symptom,itching
+fungal infection,has_symptom,nodules
+fungal infection,has_symptom,rash
+fungal infection,has_symptom,skin_discoloration
+gallstones,has_symptom,abdominal_pain
+gallstones,has_symptom,bloating
+gallstones,has_symptom,nausea
+gallstones,has_symptom,vomiting
+gallstones,has_symptom,yellow_skin
+gastroesophageal reflux disease,has_symptom,belching
+gastroesophageal reflux disease,has_symptom,bloating
+gastroesophageal reflux disease,has_symptom,chest_pain
+gastroesophageal reflux disease,has_symptom,heartburn
+gastroesophageal reflux disease,has_symptom,nausea
+gastroesophageal reflux disease,has_symptom,sore_throat
+gastroesophageal reflux disease,has_symptom,sour_taste
+gastroesophageal reflux disease,has_symptom,throat_swelling
+gastroesophageal reflux disease,has_symptom,vomiting
+gout,has_symptom,fever
+gout,has_symptom,joint_pain
+gout,has_symptom,joint_stiffness
+gout,has_symptom,rash
+gout,has_symptom,swelling
+heart attack,has_symptom,breathing_difficulty
+heart attack,has_symptom,chest_pain
+heart attack,has_symptom,cold_sweat
+heart attack,has_symptom,dizziness
+heart attack,has_symptom,fatigue
+heart attack,has_symptom,jaw_pain
+heart attack,has_symptom,left_arm_pain
+heart attack,has_symptom,nausea
+heart failure,has_symptom,breathing_difficulty
+heart failure,has_symptom,chest_pain
+heart failure,has_symptom,cough
+heart failure,has_symptom,fatigue
+heart failure,has_symptom,irregular_heartbeat
+heart failure,has_symptom,rapid_heartbeat
+heart failure,has_symptom,swelling
+heat stroke,has_symptom,confusion
+heat stroke,has_symptom,fever
+heat stroke,has_symptom,headache
+heat stroke,has_symptom,nausea
+heat stroke,has_symptom,rapid_heartbeat
+hepatitis,has_symptom,abdominal_pain
+hepatitis,has_symptom,appetite_loss
+hepatitis,has_symptom,dark_urine
+hepatitis,has_symptom,fatigue
+hepatitis,has_symptom,nausea
+hepatitis,has_symptom,vomiting
+hepatitis,has_symptom,yellow_skin
+hypothyroidism,has_symptom,cold_intolerance
+hypothyroidism,has_symptom,constipation
+hypothyroidism,has_symptom,dry_skin
+hypothyroidism,has_symptom,fatigue
+hypothyroidism,has_symptom,hair_loss
+hypothyroidism,has_symptom,muscle_stiffness
+hypothyroidism,has_symptom,swelling
+hypothyroidism,has_symptom,weakness
+hypothyroidism,has_symptom,weight_gain
+hyperthyroidism,has_symptom,anxiety_feeling
+hyperthyroidism,has_symptom,diarrhea
+hyperthyroidism,has_symptom,fatigue
+hyperthyroidism,has_symptom,hair_loss
+hyperthyroidism,has_symptom,heat_intolerance
+hyperthyroidism,has_symptom,rapid_heartbeat
+hyperthyroidism,has_symptom,sweating
+hyperthyroidism,has_symptom,tremor
+hyperthyroidism,has_symptom,weight_loss
+hypertension,has_symptom,blurred_vision
+hypertension,has_symptom,chest_pain
+hypertension,has_symptom,dizziness
+hypertension,has_symptom,headache
+hypertension,has_symptom,nausea
+hypertension,has_symptom,rapid_heartbeat
+hypertension,has_symptom,vomiting
+impetigo,has_symptom,blisters
+impetigo,has_symptom,fever
+impetigo,has_symptom,pus
+impetigo,has_symptom,rash
+influenza,has_symptom,body_aches
+influenza,has_symptom,chills
+influenza,has_symptom,cough
+influenza,has_symptom,fatigue
+influenza,has_symptom,fever
+influenza,has_symptom,headache
+influenza,has_symptom,muscle_aches
+influenza,has_symptom,nausea
+influenza,has_symptom,runny_nose
+influenza,has_symptom,sore_throat
+influenza,has_symptom,vomiting
+irritable bowel syndrome,has_symptom,abdominal_pain
+irritable bowel syndrome,has_symptom,bloating
+irritable bowel syndrome,has_symptom,constipation
+irritable bowel syndrome,has_symptom,diarrhea
+irritable bowel syndrome,has_symptom,nausea
+jaundice,has_symptom,abdominal_pain
+jaundice,has_symptom,appetite_loss
+jaundice,has_symptom,bloating
+jaundice,has_symptom,dark_urine
+jaundice,has_symptom,fatigue
+jaundice,has_symptom,fever
+jaundice,has_symptom,itching
+jaundice,has_symptom,nausea
+jaundice,has_symptom,vomiting
+jaundice,has_symptom,weight_loss
+jaundice,has_symptom,yellow_skin
+kidney stones,has_symptom,back_pain
+kidney stones,has_symptom,blood_in_urine
+kidney stones,has_symptom,burning_urination
+kidney stones,has_symptom,flank_pain
+kidney stones,has_symptom,nausea
+kidney stones,has_symptom,vomiting
+lupus,has_symptom,chest_pain
+lupus,has_symptom,fatigue
+lupus,has_symptom,fever
+lupus,has_symptom,hair_loss
+lupus,has_symptom,joint_pain
+lupus,has_symptom,photophobia
+lupus,has_symptom,rash
+malaria,has_symptom,body_aches
+malaria,has_symptom,chills
+malaria,has_symptom,diarrhea
+malaria,has_symptom,fatigue
+malaria,has_symptom,fever
+malaria,has_symptom,headache
+malaria,has_symptom,muscle_aches
+malaria,has_symptom,nausea
+malaria,has_symptom,sweating
+malaria,has_symptom,vomiting
+malaria,has_symptom,weakness
+meningitis,has_symptom,confusion
+meningitis,has_symptom,fever
+meningitis,has_symptom,headache
+meningitis,has_symptom,nausea
+meningitis,has_symptom,neck_pain
+meningitis,has_symptom,phonophobia
+meningitis,has_symptom,photophobia
+meningitis,has_symptom,rash
+meningitis,has_symptom,vomiting
+migraine,has_symptom,blurred_vision
+migraine,has_symptom,dizziness
+migraine,has_symptom,excessive_hunger
+migraine,has_symptom,headache
+migraine,has_symptom,nausea
+migraine,has_symptom,neck_pain
+migraine,has_symptom,phonophobia
+migraine,has_symptom,photophobia
+migraine,has_symptom,vomiting
+osteoarthritis,has_symptom,joint_pain
+osteoarthritis,has_symptom,joint_stiffness
+osteoarthritis,has_symptom,pain
+osteoarthritis,has_symptom,swelling
+osteoarthritis,has_symptom,weakness
+pancreatitis,has_symptom,abdominal_pain
+pancreatitis,has_symptom,bloating
+pancreatitis,has_symptom,fever
+pancreatitis,has_symptom,nausea
+pancreatitis,has_symptom,rapid_heartbeat
+pancreatitis,has_symptom,vomiting
+peptic ulcer disease,has_symptom,abdominal_pain
+peptic ulcer disease,has_symptom,appetite_loss
+peptic ulcer disease,has_symptom,belching
+peptic ulcer disease,has_symptom,bleeding
+peptic ulcer disease,has_symptom,bloating
+peptic ulcer disease,has_symptom,fatigue
+peptic ulcer disease,has_symptom,heartburn
+peptic ulcer disease,has_symptom,nausea
+peptic ulcer disease,has_symptom,vomiting
+peptic ulcer disease,has_symptom,weight_loss
+pneumonia,has_symptom,breathing_difficulty
+pneumonia,has_symptom,chest_pain
+pneumonia,has_symptom,chills
+pneumonia,has_symptom,cough
+pneumonia,has_symptom,fatigue
+pneumonia,has_symptom,fever
+pneumonia,has_symptom,mucus_production
+pneumonia,has_symptom,nausea
+pneumonia,has_symptom,rapid_heartbeat
+pneumonia,has_symptom,sweating
+pneumonia,has_symptom,weakness
+psoriasis,has_symptom,itching
+psoriasis,has_symptom,joint_pain
+psoriasis,has_symptom,joint_stiffness
+psoriasis,has_symptom,nail_changes
+psoriasis,has_symptom,rash
+psoriasis,has_symptom,skin_discoloration
+psoriasis,has_symptom,skin_scaling
+rheumatoid arthritis,has_symptom,fatigue
+rheumatoid arthritis,has_symptom,fever
+rheumatoid arthritis,has_symptom,joint_pain
+rheumatoid arthritis,has_symptom,joint_stiffness
+rheumatoid arthritis,has_symptom,swelling
+rheumatoid arthritis,has_symptom,weakness
+sepsis,has_symptom,breathing_difficulty
+sepsis,has_symptom,chills
+sepsis,has_symptom,confusion
+sepsis,has_symptom,fever
+sepsis,has_symptom,rapid_heartbeat
+sepsis,has_symptom,weakness
+sinusitis,has_symptom,cough
+sinusitis,has_symptom,fatigue
+sinusitis,has_symptom,headache
+sinusitis,has_symptom,loss_of_smell
+sinusitis,has_symptom,mucus_production
+sinusitis,has_symptom,nasal_congestion
+sinusitis,has_symptom,sore_throat
+stroke,has_symptom,confusion
+stroke,has_symptom,dizziness
+stroke,has_symptom,facial_drooping
+stroke,has_symptom,headache
+stroke,has_symptom,loss_of_balance
+stroke,has_symptom,numbness
+stroke,has_symptom,slurred_speech
+stroke,has_symptom,vision_loss
+stroke,has_symptom,weakness
+tuberculosis,has_symptom,appetite_loss
+tuberculosis,has_symptom,bleeding
+tuberculosis,has_symptom,chest_pain
+tuberculosis,has_symptom,cough
+tuberculosis,has_symptom,fatigue
+tuberculosis,has_symptom,fever
+tuberculosis,has_symptom,sweating
+tuberculosis,has_symptom,weight_loss
+typhoid,has_symptom,abdominal_pain
+typhoid,has_symptom,constipation
+typhoid,has_symptom,diarrhea
+typhoid,has_symptom,fever
+typhoid,has_symptom,headache
+typhoid,has_symptom,nausea
+typhoid,has_symptom,rash
+typhoid,has_symptom,sweating
+typhoid,has_symptom,vomiting
+typhoid,has_symptom,weakness
+urinary tract infection,has_symptom,bleeding
+urinary tract infection,has_symptom,blood_in_urine
+urinary tract infection,has_symptom,burning_urination
+urinary tract infection,has_symptom,cloudy_urine
+urinary tract infection,has_symptom,fever
+urinary tract infection,has_symptom,frequent_urination
+urinary tract infection,has_symptom,pelvic_pain
+varicose veins,has_symptom,leg_cramps
+varicose veins,has_symptom,pain
+varicose veins,has_symptom,swelling
+varicose veins,has_symptom,visible_veins

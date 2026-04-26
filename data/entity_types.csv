@@ -1,0 +1,147 @@
+allergy,Disease
+arthritis,Disease
+bronchial asthma,Disease
+cervical spondylosis,Disease
+chicken pox,Disease
+common cold,Disease
+dengue,Disease
+diabetes,Disease
+drug reaction,Disease
+fungal infection,Disease
+gastroesophageal reflux disease,Disease
+hypertension,Disease
+impetigo,Disease
+jaundice,Disease
+malaria,Disease
+migraine,Disease
+peptic ulcer disease,Disease
+pneumonia,Disease
+psoriasis,Disease
+typhoid,Disease
+urinary tract infection,Disease
+varicose veins,Disease
+heart attack,Disease
+angina,Disease
+stroke,Disease
+heart failure,Disease
+covid-19,Disease
+influenza,Disease
+tuberculosis,Disease
+copd,Disease
+irritable bowel syndrome,Disease
+appendicitis,Disease
+meningitis,Disease
+hypothyroidism,Disease
+hyperthyroidism,Disease
+anemia,Disease
+kidney stones,Disease
+chronic kidney disease,Disease
+pancreatitis,Disease
+gallstones,Disease
+sinusitis,Disease
+ear infection,Disease
+depression,Disease
+anxiety disorder,Disease
+gout,Disease
+rheumatoid arthritis,Disease
+osteoarthritis,Disease
+sepsis,Disease
+dehydration,Disease
+food poisoning,Disease
+heat stroke,Disease
+fibromyalgia,Disease
+lupus,Disease
+hepatitis,Disease
+abdominal_pain,Symptom
+appetite_loss,Symptom
+anxiety_feeling,Symptom
+back_pain,Symptom
+belching,Symptom
+bleeding,Symptom
+blisters,Symptom
+bloating,Symptom
+blood_in_stool,Symptom
+blood_in_urine,Symptom
+blurred_vision,Symptom
+body_aches,Symptom
+breathing_difficulty,Symptom
+burning_urination,Symptom
+chest_pain,Symptom
+chest_tightness,Symptom
+chills,Symptom
+cloudy_urine,Symptom
+cold_extremities,Symptom
+cold_intolerance,Symptom
+cold_sweat,Symptom
+confusion,Symptom
+constipation,Symptom
+cough,Symptom
+dark_urine,Symptom
+diarrhea,Symptom
+dizziness,Symptom
+dry_skin,Symptom
+ear_discharge,Symptom
+ear_pain,Symptom
+excessive_hunger,Symptom
+excessive_thirst,Symptom
+eye_redness,Symptom
+facial_drooping,Symptom
+fatigue,Symptom
+fever,Symptom
+flank_pain,Symptom
+frequent_urination,Symptom
+hair_loss,Symptom
+headache,Symptom
+heartburn,Symptom
+heat_intolerance,Symptom
+insomnia,Symptom
+irregular_heartbeat,Symptom
+itching,Symptom
+jaw_pain,Symptom
+joint_pain,Symptom
+joint_stiffness,Symptom
+left_arm_pain,Symptom
+leg_cramps,Symptom
+loss_of_balance,Symptom
+loss_of_smell,Symptom
+loss_of_taste,Symptom
+mucus_production,Symptom
+muscle_aches,Symptom
+muscle_stiffness,Symptom
+nail_changes,Symptom
+nasal_congestion,Symptom
+nausea,Symptom
+neck_pain,Symptom
+nodules,Symptom
+numbness,Symptom
+pain,Symptom
+pallor,Symptom
+pelvic_pain,Symptom
+phonophobia,Symptom
+photophobia,Symptom
+pus,Symptom
+rapid_heartbeat,Symptom
+rash,Symptom
+retro_orbital_pain,Symptom
+runny_nose,Symptom
+sadness,Symptom
+skin_discoloration,Symptom
+skin_scaling,Symptom
+slurred_speech,Symptom
+slow_healing,Symptom
+sneezing,Symptom
+sore_throat,Symptom
+sour_taste,Symptom
+sweating,Symptom
+swelling,Symptom
+throat_swelling,Symptom
+tremor,Symptom
+vision_loss,Symptom
+visible_veins,Symptom
+vomiting,Symptom
+watery_eyes,Symptom
+weakness,Symptom
+weight_gain,Symptom
+weight_loss,Symptom
+wheezing,Symptom
+yellow_skin,Symptom
