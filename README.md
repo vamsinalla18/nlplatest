@@ -4,17 +4,6 @@ A medical NLP system that learns structured disease-symptom embeddings by jointl
 
 ---
 
-## Team
-
-| Name | Roll No |
-|------|---------|
-| Vamsi Nalla | MT2025719 |
-| Jishnu Satwik | MT2025707 |
-| Sure Uday | MT2025727 |
-| Sathvik Teja | MT2025717 |
-
----
-
 ## Project Overview
 
 ```
