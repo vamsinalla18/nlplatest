@@ -33,9 +33,6 @@ class MultiHeadSelfAttention(nn.Module):
         # attention scores
         scores = (Q @ K.transpose(-2, -1)) / math.sqrt(self.head_dim)
 
-        if mask is not None:
-            scores = scores.masked_fill(mask[:, None, None, :], float('-inf'))
-
         attn = torch.softmax(scores, dim=-1)
 
         out = attn @ V
